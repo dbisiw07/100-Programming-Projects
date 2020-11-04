@@ -7,7 +7,7 @@
 
 ## Beginners
 ### Project: **Restaurant Bill Calculator with a Tip**
-### Programming skills Needed
+#### Programming skills Needed
 * Data Types
 * String Manipulations
 ### Description:
@@ -30,7 +30,7 @@ Each person will pay : 27.9
 <br>
 
 ## Intermediate
-### Programming skills Needed
+#### Programming skills Needed
 * Randomization
 * List manipulations
 ### Project: **Rock Scissor Paper Game**
@@ -46,7 +46,7 @@ What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
 <br>
 
 ## High Intermediate
-### Programming skills Needed
+#### Programming skills Needed
 * Text Processing
 * Randoms
 ### Project: **Hangman Game** 
