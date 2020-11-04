@@ -1,0 +1,23 @@
+{
+  "name": "100-Programming-Projects",
+  "version": "1.0.0",
+  "description": "Learn to Code by building stuff",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d projectPage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbisiw07/100-Programming-Projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbisiw07/100-Programming-Projects/issues"
+  },
+  "homepage": "https://github.com/dbisiw07/100-Programming-Projects#readme",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
