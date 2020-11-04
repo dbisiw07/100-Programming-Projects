@@ -2,6 +2,8 @@
 
 **_Try to code at least an hour every day_**
 
+[Click here to Suggested Projects Google Doc Page](https://docs.google.com/document/d/1GwwezVS52WF2nKVbUdb0RrwIyYMgZn2cdLRqSkOyRw4/edit)
+
 ## Week 1 Projects
 
 <br>
@@ -84,11 +86,11 @@ Update this later
 ## Algorithms and Data Structures
 
 1. Given an integral number N. The task is to find the count of digits present in this number. <br>
-  `Example: When N = 2019, Number of digits in N here is 4 and, the digits are: 2, 0, 1, 9`
+   `Example: When N = 2019, Number of digits in N here is 4 and, the digits are: 2, 0, 1, 9`
 2. For a given number N check if it is prime or not. A prime number is a number which is only divisible by 1 and itself.
-  `For N = 5, output Yes and output No for N= 4`
+   `For N = 5, output Yes and output No for N= 4`
 3. Given a temperature in celsius C. You need to convert the given temperature to Fahrenheit.
 4. Given an integer N. Find the number of digits that appear in its factorial.Factorial is defined as, factorial(n) = 1*2*3*4……..*N and factorial(0) = 1.
-5. You're given strings J representing the types of stones that are jewels, and S representing the stones you have.  Each character in S is a type of stone you have.  You want to know how many of the stones you have are also jewels. The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
- ` Example 1:Input: J = "aA", S = "aAAbbbb" Output: 3` <br>
-  ` Example 2:Input: J = "z", S = "ZZ" Output: 0 `
+5. You're given strings J representing the types of stones that are jewels, and S representing the stones you have. Each character in S is a type of stone you have. You want to know how many of the stones you have are also jewels. The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
+   ` Example 1:Input: J = "aA", S = "aAAbbbb" Output: 3` <br>
+   `Example 2:Input: J = "z", S = "ZZ" Output: 0`
