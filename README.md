@@ -4,93 +4,315 @@
 
 [Click here to Suggested Projects Google Doc Page](https://docs.google.com/document/d/1GwwezVS52WF2nKVbUdb0RrwIyYMgZn2cdLRqSkOyRw4/edit)
 
-## Week 1 Projects
+Some wireless communication projects
+1.    Identification of Traffic Signal for Blind People
+ 
+2.    GSM & GPS based Identification/Reporting of Vehicle Accident
+ 
+3.    GSM-based Base station monitoring system(temperature, fuel level etc.)
+ 
+4.    RFID based Tracking of Luggage
+ 
+5.    GSM based Irrigation System
+ 
+6.    Monitoring & Controlling of Home Appliances through GSM
+ 
+7.    Health Monitoring System through GSM
+ 
+8.    Weather Reporting through an SMS
+ 
+9.    LPG/Gas leakage detection alarm system for home/office/industry
+ 
+10.         Security System for Border using GSM
+ 
+11.         GSM based Security System for Multi-Purpose
+ 
+12.         Wireless Notice Board using GSM
+ 
+13.         RF Security System using GSM & Sensors for Banks
+14.         Basic RF signal attenuators
+ 
+PROGRAMMING PROJECTS:
+ 
+Restaurant Tip Calculator
 
-<br>
+Digital University transcript/certificate request app
 
-## Beginners
+Design and Build School Placement System in Ghana
 
-### Project: **Restaurant Bill Calculator with a Tip**
+Design a BMI Calculator Health Mobile App
 
-#### Programming skills Needed
+Design and Build a url shortener like TinyUrl
 
-- Data Types
-- String Manipulations
+Design and Implement New Year CountDown App
 
-### Description:
+Design and Implement an Airline Management System
 
-Make a simple App to Calculate a restaurant bill. Lets say you go to a restuarant with your friends. You enjoyed your meal and the service was so nice you decided to give additional money on top of your bill, ie you decide to give a Tip. Example, if your bill is 7 Ghana and you decide to give a tip of 1 Ghana, you pay them 8 Ghana :).
-Write a program to calculate how much each person in your group will pay considering the tip and the bill.
+Design and Implement Land Registration System in Ghana
 
-### Requirements:
+Design a Profile Registration App for BECE Candidates to choose their secondary schools and programmes they want to pursue
 
-#### Inputs:
+Design and Implement Employee HR and Payment System for a Private School in Ghana
+Design and Implement Voter Registration System in Ghana
 
-- Number of Friends
-- Amount of bill
-- Tip Percentage <br>
+Design and Implement Vehicle Registration and Management System for Ghana
 
-#### Output:
+Design and Implement Online Voting System for Knust SRC Elections
 
-- Amount per person in the group <br>
+Design an App to simulate NSMQ Riddle Questions
 
-### Example Run:
+Design and Build a secure Testing Application for Bece like how SAT/GRE is been done
 
-Wecome To Bill Calculator <br>
-What was the total bill ? : GHC 124.54 <br>
-How many people to split the bill? 5 <br>
-What percentage tip will you like to give, 10, 12, or 15 ? 12 <br>
-Each person will pay : 27.9
-<br>
+Design and build a chat mobile App
 
-## Intermediate
+Design and build a Task Management Mobile App
 
-#### Programming skills Needed
+Design An App to find nearby friends in your contact list
 
-- Randomization
-- List manipulations
+Design and Implement a banking system for a Rural Bank in Ghana
 
-### Project: **Rock Scissor Paper Game**
+Design only the Search Component of Twitter
 
-### Description
+Design and Implement a Weather Mobile App
+Build a cryptocurrency price mobile App Tracker
 
-I will update this later in the day
+Design Typeahead suggestion System
 
-### Requirements:
+Design WeChat Clone
 
-I will update requirements later in the day
+Design An Online library with books people can read online
 
-### Example Run
+Design an App like Siri (Probably adding some Ghanaian Language)
 
-What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors.
+Design a Xylophone Mobile App
 
-<br>
+Design a Business Card Mobile App
 
-## High Intermediate
+Implement a Dice Rolling mobile App 
 
-#### Programming skills Needed
+Design a Restaurant Management System
 
-- Text Processing
-- Randoms
+Design Chess
 
-### Project: **Hangman Game**
+Design Black Jack and Deck of Cards
 
-### Description:
+Design a Hotel Management System
 
-I will update this later
+Design a Pension Administration Management System like SSNIT
 
-### Requirements:
+Design Car Rental System
 
-Update this later
+Design a system like Linkedin
 
-## Algorithms and Data Structures
+Design a Health Insurance Management System
 
-1. Given an integral number N. The task is to find the count of digits present in this number. <br>
-   `Example: When N = 2019, Number of digits in N here is 4 and, the digits are: 2, 0, 1, 9`
-2. For a given number N check if it is prime or not. A prime number is a number which is only divisible by 1 and itself.
-   `For N = 5, output Yes and output No for N= 4`
-3. Given a temperature in celsius C. You need to convert the given temperature to Fahrenheit.
-4. Given an integer N. Find the number of digits that appear in its factorial.Factorial is defined as, factorial(n) = 1*2*3*4……..*N and factorial(0) = 1.
-5. You're given strings J representing the types of stones that are jewels, and S representing the stones you have. Each character in S is a type of stone you have. You want to know how many of the stones you have are also jewels. The letters in J are guaranteed distinct, and all characters in J and S are letters. Letters are case sensitive, so "a" is considered a different type of stone from "A".
-   ` Example 1:Input: J = "aA", S = "aAAbbbb" Output: 3` <br>
-   `Example 2:Input: J = "z", S = "ZZ" Output: 0`
+Design a Payment System for ECG
+
+Design and Implement a Library Management System
+
+Design and Implement an ATM Machine
+
+Design StackOverflow
+
+Design and Implement Snake Game
+
+Design and Implement a least Recently used Cache
+
+Design and Implement a Trie Data Structure
+
+Design and Implement Stack using Queues
+
+Password Generator
+
+Design and Implement a Min Stack
+
+Design and Implement a Max Stack
+
+Design and Implement moving average from a Data stream
+
+Design a ticket booking System
+
+Design Airbnb
+
+Design and Implement a Hashset Data Structure
+
+Design and Implement Logger Rate Limiter
+
+Design Compressed String Iterator
+
+Design and Implement algorithm to find Kth largest element in a stream
+
+Design an algorithm to find first unique number in a list of numbers
+
+Design and Implement a HashMap Data Structure
+Design an Algorithm to apply discount to every n orders
+
+Design a code Deployment System
+
+Design an algorithm to find the product of the last k numbers
+
+Design Stack Data Structure with Increment Operation
+
+Design and Implement Queues using Stack
+
+Implement a system that take two sorted arrays and merge them together and the merged list is sorted
+
+Design a least frequently used Cache System
+
+Design Add and Search Words Data Structure
+
+Implement a binary Search Tree
+
+Design Search AutoComplete System
+
+Design a file sharing System
+
+Design and Implement a browser History
+Design and Implement a Rate Limiter
+
+Design and Implement a Key-Value Store
+
+Design a Leaderboard
+
+Design and Implement HitCounter
+
+Design and Implement a file System
+
+Design and Implement a Phone Directory
+
+Design and Implement a Circular Queue
+
+Design and Implement a Circular Deque
+
+Design and Implement a Parking System
+
+Design and Implement Excel Sum Formula
+
+Design and Implement a Unique ID Generator in a Registration System
+
+Design in-memory File System
+
+Design and Implement Log Storage System
+
+Design a notification System
+
+Stock Trading News Alert Project
+
+Automated Birthday Wisher via email App
+
+Automated Amazon Price Tracker
+
+Automated Job Applications on Linkedin
+
+Instagram Follower Bot
+
+Personal Blog
+
+Implement a rest api
+
+Caesar Cipher Encryption App
+
+Memory Cards or FlashCards Application for studying
+
+Workout Tracking App that talks to Google sheets
+
+Flight Deal Finder
+
+Traffic Congestion App
+
+Ghana Land Registration App
+
+Bece School Registration App
+
+University Course Registration App
+
+Registration Form Validator
+
+Email Address Validator App
+
+Build a shopping Cart App
+
+Design a newsfeed System
+
+Design Dropbox
+
+Design a stock broker system
+
+Design Reddit Api
+
+Design Netflix
+
+Hangman Game using something like svg
+
+Income and Expense Tracker App
+
+Custom Video Player
+Exchange Rate Calculator with a Fetch Api
+
+A Todo List App
+
+A real time chat App
+
+Design a Relation Database Management System
+
+Design Sudoku Game
+
+Build A Quiz App
+       Douglas : https://github.com/dbisiw07
+
+Number Guessing Game with Speech Recognition
+
+Password Manager
+
+Build something with Twitter Api
+
+Lyrics Search App
+
+Rock Paper Scissors Game
+
+Breakout Game (Bouncing Ball Game)
+
+Build a Tic Tac Toe Game
+
+Speed Typing Game App
+
+Speech Text Reader App using Web Speech Api
+
+Video Chat App with WebRTC
+
+Web Scrapping tool
+
+Build Real Time ChatRooms
+
+E-Commerce App like Amazon
+
+Build Twitter Clone
+
+Build Instagram Clone
+
+A slack Clone
+
+Microsoft Teams Clone
+
+Real Time AI Face Detection App
+
+Zoom Clone App
+
+TikTok Clone
+
+WhatsApp Clone App
+Instagram Clone
+
+Search Engine like Google
+
+Facebook Clone
+
+Spotify Clone
+
+Build Uber Clone
+
+Blackjack Game
+
+Weather Forecast App
+
+Youtube Clone
