@@ -4,7 +4,7 @@
 
 [Click here to Suggested Projects Google Doc Page](https://docs.google.com/document/d/1GwwezVS52WF2nKVbUdb0RrwIyYMgZn2cdLRqSkOyRw4/edit)
 
-# Some wireless communication projects
+# WIRELESS COMMUNICATION PROJECTS
 
 * Identification of Traffic Signal for Blind People
  
