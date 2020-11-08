@@ -10,7 +10,7 @@
 
 * Digital University transcript/certificate request app
 
-* Design and Build School Placement System in Ghana
+* Design and Build School Placement System
 
 * Design a BMI Calculator Health Mobile App
 
@@ -20,14 +20,14 @@
 
 * Design and Implement an Airline Management System
 
-* Design and Implement Land Registration System in Ghana
+* Design and Implement Land Registration System
 
 * Design a Profile Registration App for BECE Candidates to choose their secondary schools and programmes they want to pursue
 
-* Design and Implement Employee HR and Payment System for a Private School in Ghana
-* Design and Implement Voter Registration System in Ghana
+* Design and Implement Employee HR and Payment System for a Private School
+* Design and Implement Voter Registration System
 
-* Design and Implement Vehicle Registration and Management System for Ghana
+* Design and Implement Vehicle Registration and Management System
 
 * Design and Implement Online Voting System for Knust SRC Elections
 
@@ -41,7 +41,7 @@
 
 * Design An App to find nearby friends in your contact list
 
-* Design and Implement a banking system for a Rural Bank in Ghana
+* Design and Implement a banking system for a Rural Bank
 
 * Design only the Search Component of Twitter
 
@@ -54,7 +54,7 @@
 
 * Design An Online library with books people can read online
 
-* Design an App like Siri (Probably adding some Ghanaian Language)
+* Design an App like Siri
 
 * Design a Xylophone Mobile App
 
@@ -194,7 +194,7 @@
 
 * Traffic Congestion App
 
-* Ghana Land Registration App
+* Design Land Registration App
 
 * Bece School Registration App
 
