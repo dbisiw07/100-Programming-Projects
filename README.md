@@ -8,8 +8,6 @@
  
 * Restaurant Tip Calculator
 
-* Digital University transcript/certificate request app
-
 * Design and Build School Placement System
 
 * Design a BMI Calculator Health Mobile App
@@ -290,6 +288,8 @@
 * Weather Forecast App
 
 * Youtube Clone
+
+* Digital University transcript/certificate request app
 
 # WIRELESS COMMUNICATION PROJECTS
 
