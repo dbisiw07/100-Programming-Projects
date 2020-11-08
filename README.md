@@ -8,11 +8,11 @@
  
 * Restaurant Tip Calculator
 
+* Design and Build a url shortener like TinyUrl
+
 * Design and Build School Placement System
 
 * Design a BMI Calculator Health Mobile App
-
-* Design and Build a url shortener like TinyUrl
 
 * Design and Implement New Year CountDown App
 
