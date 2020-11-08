@@ -4,7 +4,8 @@
 
 [Click here to Suggested Projects Google Doc Page](https://docs.google.com/document/d/1GwwezVS52WF2nKVbUdb0RrwIyYMgZn2cdLRqSkOyRw4/edit)
 
-Some wireless communication projects
+# Some wireless communication projects
+
 1.    Identification of Traffic Signal for Blind People
  
 2.    GSM & GPS based Identification/Reporting of Vehicle Accident
@@ -32,25 +33,25 @@ Some wireless communication projects
 13.         RF Security System using GSM & Sensors for Banks
 14.         Basic RF signal attenuators
  
-PROGRAMMING PROJECTS:
+# PROGRAMMING PROJECTS:
  
-Restaurant Tip Calculator
+* Restaurant Tip Calculator
 
-Digital University transcript/certificate request app
+* Digital University transcript/certificate request app
 
-Design and Build School Placement System in Ghana
+* Design and Build School Placement System in Ghana
 
-Design a BMI Calculator Health Mobile App
+* Design a BMI Calculator Health Mobile App
 
-Design and Build a url shortener like TinyUrl
+* Design and Build a url shortener like TinyUrl
 
-Design and Implement New Year CountDown App
+* Design and Implement New Year CountDown App
 
-Design and Implement an Airline Management System
+* Design and Implement an Airline Management System
 
-Design and Implement Land Registration System in Ghana
+* Design and Implement Land Registration System in Ghana
 
-Design a Profile Registration App for BECE Candidates to choose their secondary schools and programmes they want to pursue
+* Design a Profile Registration App for BECE Candidates to choose their secondary schools and programmes they want to pursue
 
 Design and Implement Employee HR and Payment System for a Private School in Ghana
 Design and Implement Voter Registration System in Ghana
