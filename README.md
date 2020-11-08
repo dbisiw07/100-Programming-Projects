@@ -3,35 +3,6 @@
 **_Try to code at least an hour every day_**
 
 [Click here to Suggested Projects Google Doc Page](https://docs.google.com/document/d/1GwwezVS52WF2nKVbUdb0RrwIyYMgZn2cdLRqSkOyRw4/edit)
-
-# WIRELESS COMMUNICATION PROJECTS
-
-* Identification of Traffic Signal for Blind People
- 
-* GSM & GPS based Identification/Reporting of Vehicle Accident
- 
-* GSM-based Base station monitoring system(temperature, fuel level etc.)
- 
-* RFID based Tracking of Luggage
- 
-* GSM based Irrigation System
- 
-* Monitoring & Controlling of Home Appliances through GSM
- 
-* Health Monitoring System through GSM
- 
-* Weather Reporting through an SMS
- 
-* LPG/Gas leakage detection alarm system for home/office/industry
- 
-* Security System for Border using GSM
- 
-* GSM based Security System for Multi-Purpose
- 
-* Wireless Notice Board using GSM
- 
-* RF Security System using GSM & Sensors for Banks
-* Basic RF signal attenuators
  
 # PROGRAMMING PROJECTS:
  
@@ -319,3 +290,32 @@
 * Weather Forecast App
 
 * Youtube Clone
+
+# WIRELESS COMMUNICATION PROJECTS
+
+* Identification of Traffic Signal for Blind People
+ 
+* GSM & GPS based Identification/Reporting of Vehicle Accident
+ 
+* GSM-based Base station monitoring system(temperature, fuel level etc.)
+ 
+* RFID based Tracking of Luggage
+ 
+* GSM based Irrigation System
+ 
+* Monitoring & Controlling of Home Appliances through GSM
+ 
+* Health Monitoring System through GSM
+ 
+* Weather Reporting through an SMS
+ 
+* LPG/Gas leakage detection alarm system for home/office/industry
+ 
+* Security System for Border using GSM
+ 
+* GSM based Security System for Multi-Purpose
+ 
+* Wireless Notice Board using GSM
+ 
+* RF Security System using GSM & Sensors for Banks
+* Basic RF signal attenuators
